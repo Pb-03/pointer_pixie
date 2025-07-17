@@ -1,4 +1,3 @@
-# pointer_pixie
 # ✨ Pixie Dust Mouse Pointer (Pygame Project)
 
 A simple Python project using Pygame where the **mouse pointer leaves a magical trail of pixie dust** (sparkles) as it moves. When idle, the sparkles fade away gracefully.
